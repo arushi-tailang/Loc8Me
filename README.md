@@ -65,6 +65,7 @@ Used Material-UI for the interface.
 - JWT
 - Mapbox API
 - React-map-gl
+- Axios
 - Material-UI
 
 
